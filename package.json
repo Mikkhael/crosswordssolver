@@ -1,0 +1,23 @@
+{
+  "name": "crosswordssolver",
+  "version": "1.0.0",
+  "description": "solver for technopol based crosswords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikkhael/crosswordssolver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikkhael/crosswordssolver/issues"
+  },
+  "homepage": "https://github.com/Mikkhael/crosswordssolver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
